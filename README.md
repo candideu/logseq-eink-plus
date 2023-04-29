@@ -1,6 +1,8 @@
-# High Contrast e-ink Theme for Logseq
+# High Contrast e-ink Plus Theme for Logseq
 
-This theme extends [DiamondYuan's eink theme](https://github.com/DiamondYuan/logseq-eink-theme) to provide a dark mode.
+Get into your writing groove with this sleek, minimal, high contrast theme.
+
+This theme extends [DiamondYuan's eink theme](https://github.com/DiamondYuan/logseq-eink-theme) by providing a dark mode and other enhancements.
 
 ## Dark Mode
 
