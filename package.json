@@ -1,20 +1,20 @@
 {
-  "name": "High Contrast e-ink Plus Theme for Logseq",
+  "name": "e-ink-plus",
   "version": "0.0.1",
   "repository": "git@github.com:candideu/logseq-eink-plus.git",
   "author": "Candide, DiamondYuan <admin@diamondyuan.com>",
-  "description": "A high-contrast, desaturated, and minimal Logseq theme",
+  "description": "A high-contrast, desaturated, and minimal theme",
   "license": "MIT",
   "logseq": {
     "themes": [
       {
-        "name": "light",
-        "url": "./theme.css",
-        "description": "A high-contrast, desaturated, and minimal Logseq theme"
+        "name": "e-ink plus",
+        "url": "theme.css",
+        "description": "A high-contrast, desaturated, and minimal theme"
       }
     ],
-    "id": "logseq-eink-plus-theme"
-    "title": "High Contrast e-ink Plus Theme for Logseq",
+    "id": "logseq-eink-plus-theme",
+    "title": "High Contrast e-ink Plus Theme",
     "icon": "icon.png"
   }
 }
