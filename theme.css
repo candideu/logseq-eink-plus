@@ -305,6 +305,33 @@ html[data-theme="dark"] blockquote {
   background-color: black;
 }
 
+/* Code Blocks */
+.cm-s-solarized.cm-s-light {
+  background-color: white;
+  border: black solid 1px;
+}
+
+.cm-s-solarized.cm-s-dark {
+  background-color: black;
+  border: white solid 1px;
+}
+
+html[data-theme="light"] .extensions__code-lang {
+  border: black 1px solid;
+}
+
+html[data-theme="dark"] .extensions__code-lang {
+  border: white 1px solid;
+}
+
+.cm-s-solarized.cm-s-light .CodeMirror-gutters {
+  background-color: var(--ls-secondary-background-color);
+}
+
+.cm-s-solarized.cm-s-dark .CodeMirror-gutters {
+  background-color: var(--ls-secondary-background-color);
+}
+
 /* ScrollBar */
 
 html[data-theme="light"] html ::-webkit-scrollbar {
