@@ -1,17 +1,18 @@
 {
-  "name": "logseq-eink-theme",
-  "version": "0.0.5",
-  "repository": "git@github.com:DiamondYuan/logseq-eink-theme.git",
-  "author": "DiamondYuan <admin@diamondyuan.com>",
+  "name": "logseq-eink-plus-theme",
+  "version": "0.0.1",
+  "repository": "git@github.com:candideu/logseq-eink-plus.git",
+  "author": "Candide, DiamondYuan <admin@diamondyuan.com>",
+  "description": "A high-contrast, desaturated, and minimal Logseq theme",
   "license": "MIT",
   "logseq": {
     "themes": [
       {
         "name": "light",
-        "url": "./light.css",
-        "mode": "light"
+        "url": "./theme.css",
+        "description": "A high-contrast, desaturated, and minimal Logseq theme"
       }
     ],
-    "id": "logseq-eink-theme"
+    "id": "logseq-eink-plus-theme"
   }
 }
