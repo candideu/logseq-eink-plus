@@ -272,6 +272,19 @@ html[data-theme="dark"] .menu-link:hover {
   color: black !important;
 }
 
+/* Checkboxes */
+
+html[data-theme="light"] .form-checkbox,
+html[data-theme="light"] .form-radio {
+  background-color: white;
+  border: solid black 1px;
+  color: black;
+}
+
+html[data-theme="light"] .form-checkbox:checked {
+  background-color: black;
+}
+
 /* --- */
 
 html[data-theme="light"] .content .color-level {
