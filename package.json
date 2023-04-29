@@ -1,5 +1,5 @@
 {
-  "name": "logseq-eink-plus-theme",
+  "name": "High Contrast e-ink Plus Theme for Logseq",
   "version": "0.0.1",
   "repository": "git@github.com:candideu/logseq-eink-plus.git",
   "author": "Candide, DiamondYuan <admin@diamondyuan.com>",
@@ -14,5 +14,7 @@
       }
     ],
     "id": "logseq-eink-plus-theme"
+    "title": "High Contrast e-ink Plus Theme for Logseq",
+    "icon": "icon.png"
   }
 }
