@@ -1,4 +1,4 @@
-# High Contrast e-ink Plus Theme for Logseq
+# [High Contrast e-ink Plus Theme for Logseq](https://github.com/candideu/logseq-eink-plus)
 
 Get into your writing groove with this sleek, minimal, high contrast theme.
 
