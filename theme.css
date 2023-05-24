@@ -141,10 +141,23 @@ html[data-theme="dark"] ::selection {
 /* Bullet container bullets */
 
 html[data-theme="light"] .bullet-container .bullet {
-  background-color: black !important;
+  background-color: black;
 }
+
+html[data-theme="light"] .bullet-container.as-order-list.typed-list .bullet {
+  /*numbered lists*/
+  background-color: none;
+  color: black;
+}
+
 html[data-theme="dark"] .bullet-container .bullet {
-  background-color: white !important;
+  background-color: white;
+}
+
+html[data-theme="dark"] .bullet-container.as-order-list.typed-list .bullet {
+  /*numbered lists*/
+  background-color: none;
+  color: white;
 }
 
 /* SVG icons */
