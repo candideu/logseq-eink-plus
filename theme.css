@@ -392,11 +392,11 @@ html[data-theme="dark"] .sidebar-item {
   border-bottom: 1px solid white !important;
 }
 
-html[data-theme="light"] .p-4 {
+html[data-theme="light"] .pt-4 {
   padding: 1rem;
   border: 1px solid black !important;
 }
-html[data-theme="dark"] .p-4 {
+html[data-theme="dark"] .pt-4 {
   padding: 1rem;
   border: 1px solid white !important;
 }
